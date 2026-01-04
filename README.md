@@ -1,4 +1,4 @@
-# CusotmBgm
+# CustomBgm
 
 This mod enables the use of custom background music in a similar way old versions of CustomKnight did.
 
